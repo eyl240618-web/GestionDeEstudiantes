@@ -1,0 +1,24 @@
+
+# Gestión de Estudiantes
+## Actividad formativa 3: Herencia
+
+### Descripción
+Proyecto desarrollado en Java para demostrar el uso de la herencia y la reutilización de código.
+
+### Clases del proyecto
+
+- Estudiante: clase base que contiene los datos generales.
+- EstudiantePresencial: clase derivada que representa a los estudiantes presenciales.
+- EstudianteEnLinea: clase derivada que representa a los estudiantes en línea.
+- Main: clase principal donde se crean los objetos y se ejecuta el programa.
+
+### Conceptos aplicados
+
+- Herencia.
+- Reutilización de código.
+- Sobrescritura de métodos.
+- Constructores y palabra super.
+- Creación de objetos.
+
+### Lenguaje utilizado
+Java.
